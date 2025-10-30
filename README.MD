@@ -21,10 +21,11 @@ seguem abaixo.
 
 ## 🧠 Prompts
 
+### Criação do E-book:
+Crie um esboço detalhado para um ebook focado em front-end para iniciantes, incluindo tópicos voltados para HTML que mostre as principais tags do html e como usá-las (com exemplos). Deve ter 5 páginas e 2 capítulos.
 
-ChatGPT
+### Criação da imagem de capa:
 
-Midjourney：
 
 ## ✨ Features
 
